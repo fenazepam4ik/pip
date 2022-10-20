@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+    font-family: times new roman;
+}
+.title {
+    font-size: 45px;
+    color: green;
+}
+p1 {
+    font-size: 30px;
+    color: yellow;
+}
